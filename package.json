@@ -27,7 +27,9 @@
   "dependencies": {
     "engine.io": "*",
     "express": "*",
-    "socket.io": "*",
+    "nodemon": "^2.0.15",
+    "paypal-rest-sdk": "^1.8.1",
+    "socket.io": "^4.4.1",
     "twilio": "*",
     "underscore": "*"
   },
