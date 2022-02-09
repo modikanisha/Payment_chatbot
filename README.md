@@ -6,7 +6,7 @@ To run:
 
 1. Sign up for paypal developer sandbox and get a client id
 2. The first time run `npm install`
-3. `SB_CLIENT_ID=<put_in_your_client_id> npm start`
+3. `SB_CLIENT_ID="Adu5xbGKPBhD9ZT70Hr1sCcMfwwJFLiyHfAHjhVi4YOgzkI6k_8XeqdIz9YLHxYkQBrU81wqJh8HC9n3" npm start`
 
 ## Assignment 2
 
